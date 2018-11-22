@@ -23,7 +23,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bitlum/go-bitcoind-rpc/bitcoind/btcjson"
+	"github.com/bitlum/go-bitcoind-rpc/btcjson"
 	"github.com/btcsuite/go-socks/socks"
 	"github.com/btcsuite/websocket"
 )

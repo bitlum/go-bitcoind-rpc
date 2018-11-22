@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/bitlum/go-bitcoind-rpc/bitcoind/btcjson"
+	"github.com/bitlum/go-bitcoind-rpc/btcjson"
 )
 
 // FutureRawResult is a future promise to deliver the result of a RawRequest RPC

@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/bitlum/go-bitcoind-rpc/bitcoind/btcjson"
+	"github.com/bitlum/go-bitcoind-rpc/btcjson"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/wire"
 )
